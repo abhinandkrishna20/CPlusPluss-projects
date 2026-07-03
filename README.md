@@ -1,7 +1,5 @@
 
 
-
-```markdown
 # C++ Apps 🛠️
 
 A curated collection of lightweight, open-source C++ command-line utilities and automation tools built for Windows. This repository serves as a centralized directory for functional scripts converted into native, high-performance binary applications.
